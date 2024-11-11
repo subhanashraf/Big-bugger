@@ -1,15 +1,26 @@
-# MERN Stack Web Application
+# Fabbrica - French Restaurant Website
 
 ## Description
-This is a full-stack web application built using the MERN stack, which consists of MongoDB, Express JS, React, and Node JS. The application is designed to showcase the power of JavaScript in both the front-end and back-end development.
+In this project, we have created a web page with a 3D burger model. The page displays a 3D burger, and when you click on the button, detailed ingredient descriptions are shown. This project provides an engaging and interactive experience for users, featuring modern animations and responsive design.
 
 ## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: JWT (JSON Web Token), Bcrypt for password hashing
+- **HTML**
+- **CSS**
+- **Zustand**
+- **Tailwind CSS**
+- **JavaScript**
+- **React**
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/subhanashraf/Mern-Project.git
+## Features
+- Interactive 3D burger model
+- Button to reveal ingredient descriptions
+- Smooth animations and modern design
+- Fully responsive layout
+
+## Live Demo
+Visit the live website here:  
+[Fabbrica Website](https://subhanashraf.github.io/Fabbrica/)
+
+## Source Code
+You can view and download the source code from GitHub:  
+[GitHub Repository](https://github.com/subhanashraf/Fabbrica)
