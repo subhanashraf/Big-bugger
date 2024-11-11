@@ -1,7 +1,7 @@
-# Fabbrica - French Restaurant Website
+# Big Bugger Project
 
 ## Description
-In this project, we have created a web page with a 3D burger model. The page displays a 3D burger, and when you click on the button, detailed ingredient descriptions are shown. This project provides an engaging and interactive experience for users, featuring modern animations and responsive design.
+In this project, we have created a visually engaging and functional website called **"Fabbrica - French Restaurant Website."** This site features an interactive 3D burger model. When users click on a button, detailed descriptions of the ingredients are displayed, making for an immersive and interactive experience. The design is modern and smooth, with a fully responsive layout for various devices.
 
 ## Technologies Used
 - **HTML**
@@ -19,8 +19,8 @@ In this project, we have created a web page with a 3D burger model. The page dis
 
 ## Live Demo
 Visit the live website here:  
-[Fabbrica Website](https://subhanashraf.github.io/Fabbrica/)
+[Big Bugger Website](https://bigbugger.vercel.app/)
 
 ## Source Code
 You can view and download the source code from GitHub:  
-[GitHub Repository](https://github.com/subhanashraf/Fabbrica)
+[GitHub Repository](https://github.com/subhanashraf/)
